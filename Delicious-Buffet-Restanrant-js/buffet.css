@@ -1,0 +1,33 @@
+div {
+    background-color: #511157;
+    font-family: Arial;
+    width: 50%;
+    text-align: center;
+    
+  }
+h1 {
+    color: #FFFFFF;
+    font-style: italic;
+    background-color: #FF6347;
+    text-align: center;
+  }
+#result {
+    font-family: Bahnschrift;
+    font-size: 24px;
+    color: #8bcf0d;
+    font-weight: bold;
+  }
+input[type="submit"], input[type="reset"] {
+    font-weight: bold;
+    font-family: Bahnschrift;
+    background-color: #cec10a;
+    width: 13em;
+    height: 35px;
+  }
+  table{
+    /* border: 1px solid black; */
+    width: 100%;
+    margin: 0px  auto;
+    border-radius: 5px;
+    
+  }
